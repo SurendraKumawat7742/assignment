@@ -1,6 +1,6 @@
 import React from "react";
-import Image1 from "../assets/images/office1.jpeg";
-import Image2 from "../assets/images/office2.jpeg";
+import Image1 from "../assets/Images/office1.jpeg";
+import Image2 from "../assets/Images/office2.jpeg";
 
 const Office = () => {
   return (
